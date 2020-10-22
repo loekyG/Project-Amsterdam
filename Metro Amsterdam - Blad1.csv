@@ -1,0 +1,8 @@
+Wijk,Amsterdam Centrum,Amsterdam Nieuw-west,Amsterdam West,Amsterdam Noord,Amsterdam Zuid,Amsterdam Zuid-Oost,Amsterdam Oost
+Amsterdam Centrum,0,1,1,1,2,2,3
+Amsterdam Nieuw-west,1,0,2,0,2,1,2
+Amsterdam West,1,2,0,0,2,1,2
+Amsterdam Noord,1,0,0,0,1,0,0
+Amsterdam Zuid,2,2,2,1,0,1,2
+Amsterdam Zuid-Oost,2,1,1,0,1,0,3
+Amsterdam Oost,3,2,2,0,2,3,0
